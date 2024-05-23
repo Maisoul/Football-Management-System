@@ -11,7 +11,9 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
 
+//usinge the new changes
 
+/** git commit -m "Resolve conflicts"
 
 public class HOME_JFrame extends javax.swing.JFrame {
 
@@ -108,7 +110,7 @@ public class HOME_JFrame extends javax.swing.JFrame {
                         .addComponent(jLabel1)))
                 .addContainerGap(25, Short.MAX_VALUE))
         );
-
+/**
         jPanel1.setBackground(new java.awt.Color(44, 62, 80));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
